@@ -1,0 +1,22 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Forkify project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakinacodes/Forkify.git"
+  },
+  "author": "Sakina Mosavi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sakinacodes/Forkify/issues"
+  },
+  "homepage": "https://github.com/sakinacodes/Forkify#readme",
+  "devDependencies": {
+    "webpack": "^5.72.1"
+  }
+}
